@@ -1,3 +1,2 @@
 # edureka-transaction-ap
-tata power 123
-123
+tata sky
